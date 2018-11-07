@@ -8,7 +8,7 @@ These instructions will get you a python service that can be used to host your N
 
 ### Prerequisites
 
-* Python 3.6 with virtual environment installed
+* Python with virtual environment installed
 * Flow.ai account
 
 
