@@ -1,4 +1,4 @@
-# INLG hacakthon chatbot service template
+# INLG hackathon chatbot service template
 
 
 
@@ -44,6 +44,6 @@ Use ngrok to tunnel your local service to the web
 ```
 $ ./ngrok http 5000
 ```
-Import the json file into Flow.ai (project settings > backup)
-In the actions editor replace the ngrok url with your own and save.
+* Import the json file into Flow.ai (project settings > backup)
+* In the actions editor replace the ngrok url with your own and save.
 
