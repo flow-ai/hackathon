@@ -39,7 +39,7 @@ $ pip install -r requirements.txt
 $ python app.py
 ```
 
-Use ngrok to tunnel your local service to the web
+Open a new window and cd to the directory of your project, then use ngrok to tunnel your local service to the web:
 
 ```
 $ ./ngrok http 5000
