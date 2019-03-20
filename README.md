@@ -1,4 +1,4 @@
-# INLG hackathon chatbot service template
+# Flow.ai NLG API template
 
 
 
