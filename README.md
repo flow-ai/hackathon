@@ -47,3 +47,17 @@ $ ./ngrok http 5000
 * Import the json file into Flow.ai (project settings > backup)
 * In the actions editor replace the ngrok url with your own and save.
 
+### Citing
+
+If you use this Flow.ai API in a scientific publication you can cite it as follows:
+
+
+```
+@misc{wubben2018flowainlgapi,
+  title={Flowai-NLG-API},
+  author={Wubben, Sander},
+  howpublished={\url{https://github.com/flow-ai/flowai-nlg-api}},
+  year={2018}
+}
+```
+
